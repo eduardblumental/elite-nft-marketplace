@@ -1,1 +1,1 @@
-NFT marketplace for luxury items
+Tokenization platform for luxury items
